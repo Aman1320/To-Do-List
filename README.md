@@ -142,7 +142,7 @@ The project follows a modular and organized structure to enhance readability, ma
 
 ## 7. Deployment
 
-The TO-DOIT App is deployed and accessible online. You can use the following link to access the application: [TO-DOIT](https://todotify.vercel.app/)
+The TO-DOIT App is deployed and accessible online. You can use the following link to access the application: [TO-DOIT](https://to-do-list-sigma-inky.vercel.app/)
 
 ## 8. Usage
 
